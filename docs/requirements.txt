@@ -1,0 +1,6 @@
+arcpy
+matplotlib
+pandas
+psycopg2
+gdal
+pcraster
