@@ -1,4 +1,3 @@
-arcpy
 matplotlib
 pandas
 psycopg2
